@@ -1,5 +1,5 @@
 - Hi, I’m @TravisWhitacre
-- I’m an Economics PhD student at SMU
+- I’m a Postdoctoral Scholar at SMU
 - My fields are health economics and applied microeconometrics
 - My current projects are focusing on ADHD and education, mortality and demographic trends in the US, and diagnostic errors in mental health. 
 - Email: twhitacre@smu.edu
